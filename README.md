@@ -7,14 +7,14 @@ This assignment was created as part of my role as a Teaching Assistant (TA) for 
 * **Performance Metrics**: Tested different technical approaches and performance measures to determine the most effective configuration for segmenting diverse tissue types and tumor structures.
 
 ### Dataset:
-This project uses the (BraTS 2020 Training Data)[https://www.kaggle.com/datasets/awsaf49/brats2020-training-data], which provides MRI scans with tumor annotations. The dataset includes various types of MRI images (T1, T1CE, T2, FLAIR) for training the U-Net model to detect and segment brain tumors.
+This project uses the [BraTS 2020 Training Data](https://www.kaggle.com/datasets/awsaf49/brats2020-training-data), which provides MRI scans with tumor annotations. The dataset includes various types of MRI images (T1, T1CE, T2, FLAIR) for training the U-Net model to detect and segment brain tumors.
 
 ### Objective:
 To understand and apply U-Net for medical image segmentation, this project serves as a tutorial for students to implement, experiment, and optimize a deep learning model for real-world medical imaging tasks.
 
 ### How to Use:
 1. Clone this repository.
-2. Download the (BraTS 2020 Training Data)[https://www.kaggle.com/datasets/awsaf49/brats2020-training-data] and set up the dataset.
+2. Download the ([BraTS 2020 Training Data](https://www.kaggle.com/datasets/awsaf49/brats2020-training-data) and set up the dataset.
 3. Follow the provided instructions to preprocess MRI data and set up the U-Net architecture.
 4. Train the model on your dataset and evaluate performance with provided metrics.
 5. Experiment with different MRI scan types and configurations for improved results.
